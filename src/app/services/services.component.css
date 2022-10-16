@@ -1,0 +1,41 @@
+body{
+    justify-content: center;
+}
+img{
+    width: 500px;
+    height: 250px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+.div1{
+    width: 30%;
+    border: 3px black solid;
+    overflow: hidden;
+    margin: 0px 6px;
+    
+}
+.div2{
+    width: 30%;
+    border: 3px black solid;
+    overflow: hidden;
+    margin: 0px 6px;
+}
+.div3{
+    width: 30%;
+    border: 3px black solid;
+    overflow: hidden;
+    margin: 0px 6px;
+}
+p{
+    text-align: justify;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    padding: 5px;
+
+}
